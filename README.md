@@ -1,6 +1,8 @@
 # Hello, I'm Jada Bautista! 🎨🌐💻
 
-![Jada Bautista](profile.png)
+<p align="center">
+  <img src="profile.png" alt="Jada Bautista" width="300px">
+</p>
 
 🚀 Psychology | Visual Communication Design | Artificial Intelligence
 
