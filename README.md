@@ -16,15 +16,12 @@ I'm an **undergraduate Ethics Research Fellow** at the **University of Notre Dam
 ### 🖥️ Programming & Data Science  
 - Python (Pandas, Matplotlib, Seaborn)  
 - Machine Learning & Data Analysis  
-- SQL, R (Basic)  
 
 ### 🎨 Design & Visualization  
 - Adobe Illustrator, Photoshop, InDesign, XD  
-- Figma, Canva, D3.js  
-- Data Visualization (Tableau, Power BI)  
+- Figma, Canva
 
 ### 🌐 Web & UI/UX  
-- HTML, CSS, JavaScript  
 - UI/UX Design Research  
 - Accessibility & Ethical Design  
 
@@ -32,11 +29,10 @@ I'm an **undergraduate Ethics Research Fellow** at the **University of Notre Dam
 
 ## 📂 Featured Project: Data Science Portfolio  
 🎯 Check out my **Data Science Portfolio**, where I explore machine learning, data visualization, and ethical AI:  
-🔗 **[LASTNAME-Python-Portfolio](https://github.com/YOUR_GITHUB_USERNAME/LASTNAME-Python-Portfolio)**  
+🔗 **[BAUTISTA-Python-Portfolio](https://github.com/jadabau/BAUTISTA-Python-Portfolio)**  
 
 ---
 
 ## 📬 Let's Connect!  
-💼 **LinkedIn:** [Your LinkedIn Profile](#)  
-📧 **Email:** your.email@example.com  
-🌐 **Website/Portfolio (if applicable):** [yourportfolio.com](#)  
+💼 **LinkedIn:** [[Your LinkedIn Profile](#)](https://www.linkedin.com/in/jadabautista/)  
+📧 **Email:** jbautis3@nd.edu
