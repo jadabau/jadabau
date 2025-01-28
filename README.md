@@ -15,7 +15,6 @@ I'm an **undergraduate Ethics Research Fellow** at the **University of Notre Dam
 ## 🛠️ Technical Skills  
 ### 🖥️ Programming & Data Science  
 - Python (Pandas, Matplotlib, Seaborn)  
-- Machine Learning & Data Analysis  
 
 ### 🎨 Design & Visualization  
 - Adobe Illustrator, Photoshop, InDesign, XD  
@@ -28,7 +27,7 @@ I'm an **undergraduate Ethics Research Fellow** at the **University of Notre Dam
 ---
 
 ## 📂 Featured Project: Data Science Portfolio  
-🎯 Check out my **Data Science Portfolio**, where I explore machine learning, data visualization, and ethical AI:  
+🎯 Check out my **Data Science Portfolio:**  
 🔗 **[BAUTISTA-Python-Portfolio](https://github.com/jadabau/BAUTISTA-Python-Portfolio)**  
 
 ---
