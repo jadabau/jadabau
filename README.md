@@ -1,30 +1,33 @@
-# BAUTISTA-Python-Portfolio
+# 👋 Hello, I'm Jada Bautista!  
 
-## Hey, I'm Jada 👋
+🚀 **Psychology | Visual Communication Design | Artificial Intelligence
 
-<!--
+I'm an **undergraduate Ethics Research Fellow** at the **University of Notre Dame**, deeply passionate about **data-driven design, ethical AI, and user experience research**. My work focuses on the intersection of **psychology, design, and computing**, exploring how technology shapes human behavior, particularly in **digital safety for children**.  
 
-Here are some ideas to get you started:
+📍 **Manila, Philippines → Notre Dame, Indiana**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns:  ...
-- ⚡ Fun fact: ...
--->
-<code><img height="200px" src=""></code>
+---
 
-___
+## 🔧 Technical Skills  
+💻 **Programming & Data Science**  
+- Python (Pandas, Matplotlib, Seaborn)  
 
-## About Me 👋
-I am an undergraduate student at the **University of Notre Dame** born in Manila, Philippines. Pursuing a dynamic combination of degrees in **Visual Communication Design, Psychology, and Computing Digital Technologies – Artificial Intelligence Track**, I aim to craft compelling brand identities and intuitive UI/UX designs.
+🎨 **Design & Visualization**  
+- Adobe Creative Suite (Illustrator, Photoshop, InDesign, XD)  
+- Canva, Figma  
 
-___
+🌐 **Web & UI/UX**  
+- UI/UX Design & Research  
+- Ethical User Experience & Accessibility  
 
-## Data Science Projects 
+---
 
-___
-## Let's Connect 🌐
+## 📂 Featured Project: Data Science Portfolio  
+🎯 Check out my **Data Science Portfolio:**
+🔗 **[LASTNAME-Python-Portfolio](https://github.com/jadabau/BAUTISTA-Python-Portfolio)**  
+
+---
+
+## 📬 Let's Connect!  
+💼 **LinkedIn:** [[Your LinkedIn Profile](#)  ](https://www.linkedin.com/in/jadabautista/)
+📧 **Email:** jbautis3@nd.edu
