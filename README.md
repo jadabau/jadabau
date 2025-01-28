@@ -1,9 +1,5 @@
 # <p align="center">Hello, I'm Jada Bautista! 🎨🌐💻</p>
 
-<p align="center">
-  <img src="profile.png" alt="Jada Bautista" width="200px">
-</p>
-
 🚀 **Psychology | Visual Communication Design | Artificial Intelligence**
 
 I'm an **undergraduate Ethics Research Fellow** at the **University of Notre Dame**, deeply passionate about **data-driven design, ethical AI, and user experience research**. My work focuses on the intersection of **psychology, design, and computing**, exploring how technology shapes human behavior, particularly in **digital safety for children**.
