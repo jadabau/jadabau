@@ -34,5 +34,5 @@ I'm an **undergraduate Ethics Research Fellow** at the **University of Notre Dam
 ---
 
 ## 📬 Let's Connect!  
-💼 **LinkedIn:** [[Your LinkedIn Profile](#)](https://www.linkedin.com/in/jadabautista/)  
+💼 **LinkedIn:** https://www.linkedin.com/in/jadabautista/
 📧 **Email:** jbautis3@nd.edu
