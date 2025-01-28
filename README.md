@@ -24,7 +24,7 @@ I'm an **undergraduate Ethics Research Fellow** at the **University of Notre Dam
 
 ## 📂 Featured Project: Data Science Portfolio  
 🎯 Check out my **Data Science Portfolio:**
-🔗 **[LASTNAME-Python-Portfolio](https://github.com/jadabau/BAUTISTA-Python-Portfolio)**  
+🔗 **[BAUTISTA-Python-Portfolio](https://github.com/jadabau/BAUTISTA-Python-Portfolio)**  
 
 ---
 
