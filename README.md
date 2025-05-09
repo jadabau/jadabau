@@ -2,7 +2,7 @@
 
 **Psychology | Visual Communication Design | Artificial Intelligence**
 
-I'm an **undergraduate Ethics Research Fellow** at the **University of Notre Dame**, deeply passionate about **ethical AI, visual branding and identity, and user experience research**. My work focuses on the intersection of **psychology, design, and computing**, exploring how human-centered design can shape safer, more inclusive digital spaces for children. I'm a designer for the Notre Dame Global Center for the Development of the Whole Child, Strike Magazine, and the Filipino-American Student Organization.
+I'm an **undergraduate [Ethics Research Fellow](https://ethics.nd.edu/fellowships-and-grants/fellows/jada-bautista-27-2024-2025/)** at the **University of Notre Dame**, deeply passionate about **ethical AI, visual branding and identity, and user experience research**. My work focuses on the intersection of **psychology, design, and computing**, exploring how human-centered design can shape safer, more inclusive digital spaces for children. I'm a designer for the [Notre Dame Global Center for the Development of the Whole Child](https://iei.nd.edu/initiatives/global-center-for-the-development-of-the-whole-child/people/jada-bautista), Strike Magazine, and the Filipino-American Student Organization.
 
 Keeping up with the latest AI technologies, I write a column for [The New AI Project](https://www.linkedin.com/company/the-new-ai/posts/?feedView=all) on AI and artistic expression, a research assistant in the [Future of Labor Lab](folab.org), and will be interning at the Von Hugel Institute at Cambridge this fall 2025.
 
